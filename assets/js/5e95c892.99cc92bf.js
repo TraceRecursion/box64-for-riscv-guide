@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbox_64_for_riscv_guide=self.webpackChunkbox_64_for_riscv_guide||[]).push([[647],{7121:(e,r,s)=>{s.r(r),s.d(r,{default:()=>d});s(6540);var u=s(4164),c=s(1213),a=s(7559),i=s(2831),o=s(781),_=s(4848);function d(e){return(0,_.jsx)(c.e3,{className:(0,u.A)(a.G.wrapper.docsPages),children:(0,_.jsx)(o.A,{children:(0,i.v)(e.route.routes)})})}}}]);
