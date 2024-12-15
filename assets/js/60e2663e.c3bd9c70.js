@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbox_64_for_riscv_guide=self.webpackChunkbox_64_for_riscv_guide||[]).push([[0],{5522:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/box64-for-riscv-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
